@@ -1,0 +1,12 @@
+{
+    "name": "zetaphor/git-wrapper",
+    "require": {
+        "cpliakas/git-wrapper": "^1.5"
+    },
+    "authors": [
+        {
+            "name": "Gary Daigle",
+            "email": "zetaphor@gmail.com"
+        }
+    ]
+}
